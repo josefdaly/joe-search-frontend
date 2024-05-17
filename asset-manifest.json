@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/joe-search-frontend/static/css/main.f06607cb.css",
-    "main.js": "/joe-search-frontend/static/js/main.fac72bda.js",
+    "main.js": "/joe-search-frontend/static/js/main.41c441e7.js",
     "static/js/453.e1d27bda.chunk.js": "/joe-search-frontend/static/js/453.e1d27bda.chunk.js",
     "static/media/logo.svg": "/joe-search-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/joe-search-frontend/index.html",
     "main.f06607cb.css.map": "/joe-search-frontend/static/css/main.f06607cb.css.map",
-    "main.fac72bda.js.map": "/joe-search-frontend/static/js/main.fac72bda.js.map",
+    "main.41c441e7.js.map": "/joe-search-frontend/static/js/main.41c441e7.js.map",
     "453.e1d27bda.chunk.js.map": "/joe-search-frontend/static/js/453.e1d27bda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f06607cb.css",
-    "static/js/main.fac72bda.js"
+    "static/js/main.41c441e7.js"
   ]
 }
